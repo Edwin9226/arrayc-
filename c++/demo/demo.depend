@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677155254 source:c:\amiga\c++\demo\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<cmath>
+
